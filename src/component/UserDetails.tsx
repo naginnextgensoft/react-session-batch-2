@@ -11,7 +11,7 @@ interface Props {
 
 const UserDetail = (props: Props) => {
 
-    const { user, message, handleFollow, setUsers } = props;
+    const { user, message, handleFollow, } = props;
 
     useEffect(() => {
         console.log('props: ', props)

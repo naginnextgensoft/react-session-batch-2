@@ -7,7 +7,7 @@ interface IProduct {
 }
 const useProduct = () => {
 
-    const [products, setProducts] = useState<IProduct[]>([{ name: 10 }]);
+    const [products, setProducts] = useState<IProduct[]>([]);
     const [loading, setLoading] = useState(false);
 
 

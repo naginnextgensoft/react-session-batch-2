@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import './style.css'
 import { Loader } from 'lucide-react';
 

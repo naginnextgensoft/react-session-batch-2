@@ -8,9 +8,6 @@ import DashboardPage from './pages/DashboardPage'
 import ProductsPage from './pages/ProductsPage'
 import ProductDetailPage from './pages/ProductDetailPage'
 import NotFoundPage from './pages/NotFoundPage'
-import TestPage from './pages/TestPage'
-import MyLayout from './layouts/MyLayout'
-
 function App() {
   return (
 
